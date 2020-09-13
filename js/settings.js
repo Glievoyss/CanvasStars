@@ -1,0 +1,43 @@
+export default {
+  defaultBgCanvas2: "white",
+  optionsStar1: {
+    cx: 140,
+    cy: 130,
+    spikes: 5,
+    outerRadius: 100,
+    innerRadius: 40,
+    color: "red",
+  },
+  optionsStar2: {
+    cx: 455,
+    cy: 130,
+    spikes: 5,
+    outerRadius: 100,
+    innerRadius: 40,
+    color: "blue",
+  },
+  optionsStar3: {
+    cx: 300,
+    cy: 300,
+    spikes: 5,
+    outerRadius: 100,
+    innerRadius: 40,
+    color: "green",
+  },
+  optionsStar4: {
+    cx: 140,
+    cy: 450,
+    spikes: 5,
+    outerRadius: 100,
+    innerRadius: 40,
+    color: "yellow",
+  },
+  optionsStar5: {
+    cx: 455,
+    cy: 450,
+    spikes: 5,
+    outerRadius: 100,
+    innerRadius: 40,
+    color: "black",
+  },
+};
